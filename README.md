@@ -41,10 +41,11 @@ SQL-Practice/
 ## 🏅 Certifications & Badges
 
 ### 📜 HackerRank Certificate  
-![HackerRank SQL Certificate](assets/HackerRank_Certificates)
+[![HackerRank SQL Certificate](assets/HackerRank_Certificate.png)](https://www.hackerrank.com/certificates/3f2e7fa891ed)
+
 
 ### 🏆 LeetCode Badge  
-[![LeetCode Badge](https://leetcard.jacoblin.cool/Khushi_Patel_17?theme=unicorn&ext=heatmap)](https://leetcode.com/Khushi_Patel_17/)
+[![LeetCode Badge](https://leetcard.jacoblin.cool/Khushi_Patel_17?theme=nord&ext=heatmap)](https://leetcode.com/Khushi_Patel_17/)
 
 
 
