@@ -45,7 +45,7 @@ SQL-Practice/
 
 
 ### 🏆 LeetCode Badge  
-[![LeetCode Badge](https://leetcard.jacoblin.cool/Khushi_Patel_17?theme=nord&ext=heatmap)](https://leetcode.com/Khushi_Patel_17/)
+[![LeetCode Badge](https://leetcard.jacoblin.cool/Khushi_Patel_17?theme=midnight&ext=heatmap)](https://leetcode.com/Khushi_Patel_17/)
 
 
 
