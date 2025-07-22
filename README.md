@@ -5,21 +5,18 @@ Welcome to my SQL problem-solving repository! This space showcases solutions to 
 ---
 
 ## 📁 Repository Structure
-SQL-Practice/
-│
-├── HackerRank/
-│   ├── Basic_SQL/
-│   ├── Intermediate_SQL/
-│   └── Advanced_SQL/
-│
-├── LeetCode/
-│   ├── Easy/
-│   ├── Medium/
-│   ├── Hard/
-│
-├── assets/
-│ └── HackerRank_Certificates
-└── README.md
+SQL-Practice
+--> 📁HackerRank/
+       -- Basic_SQL
+       -- Intermediate_SQL
+       -- Advanced_SQL
+--> 📁LeetCode/
+       -- Easy
+       -- Medium
+       -- Hard
+--> 📁assets/
+        -- HackerRank_Certificates
+
 
 
 ## 🎯 Purpose
